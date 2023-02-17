@@ -1,0 +1,22 @@
+.home{
+    z-index: 2;
+}
+
+.carousel-indicators [data-bs-target] {
+    background-color: red;
+   width: 10px;
+   height: 10px;
+   border-radius: 90%;
+}
+.carousel-control-prev-icon {
+    background-color: red;
+
+}
+.carousel-control-next-icon {
+    background-color: red;
+
+}
+
+.container {
+    text-align: center;
+}

@@ -1,0 +1,31 @@
+.whyChooseUs {
+  margin-top: 50px;
+  padding-bottom: 30px;
+  text-align: center;
+
+  .content {
+    max-width: 650px;
+    margin: auto;
+    padding-bottom: 20px;
+  }
+
+  .card {
+    width: 250px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    margin: auto;
+    .card-img-top {
+      width: 70px;
+      padding-top: 10px;
+    }
+  }
+
+  .carousel-control-prev-icon {
+    height: 100%;
+    background-color: #277CFB;
+  }
+
+  .carousel-control-next-icon {
+    height: 100%;
+    background-color: #277CFB;
+  }
+}
